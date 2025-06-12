@@ -10,6 +10,7 @@ O sistema foi implementado em Python utilizando as bibliotecas **OpenCV**, **Med
 - `projeto.ipynb` — Notebook Jupyter com o código-fonte do projeto, incluindo visualizações e comentários explicativos.
 - `requirements.txt` — Lista com as bibliotecas necessárias para execução do notebook.
 - `README.md` — Este arquivo, com instruções de uso e informações do projeto.
+- `apresentação.pptx` — Power Point com os slides apresentados durante a aula de entrega.
 
 ## 🧪 Tecnologias Utilizadas
 
